@@ -1,6 +1,6 @@
 # Redis Example with python
 
-## Installation
+## Install and run redis server
 ```bash
 # Mac OS
 $ brew install redis
