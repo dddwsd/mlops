@@ -1,0 +1,6 @@
+absl-py==2.1.0
+async-timeout==4.0.3
+grpcio==1.58.0
+protobuf==4.24.3
+redis==5.0.0
+redis-py-cluster==2.1.3
